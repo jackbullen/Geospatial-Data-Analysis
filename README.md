@@ -1,3 +1,3 @@
 # Mapping UVic
 
-Wanted to share the code.
+Obtain latitude and longitude coordinates from a map.
